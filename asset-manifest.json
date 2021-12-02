@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/FakeInsta/static/css/main.3613c8fa.chunk.css",
-    "main.js": "/FakeInsta/static/js/main.1e72fbcc.chunk.js",
-    "main.js.map": "/FakeInsta/static/js/main.1e72fbcc.chunk.js.map",
+    "main.js": "/FakeInsta/static/js/main.c1f4d7d4.chunk.js",
+    "main.js.map": "/FakeInsta/static/js/main.c1f4d7d4.chunk.js.map",
     "runtime-main.js": "/FakeInsta/static/js/runtime-main.1df1a1fc.js",
     "runtime-main.js.map": "/FakeInsta/static/js/runtime-main.1df1a1fc.js.map",
     "static/css/2.7f2ec892.chunk.css": "/FakeInsta/static/css/2.7f2ec892.chunk.css",
-    "static/js/2.c520f7c8.chunk.js": "/FakeInsta/static/js/2.c520f7c8.chunk.js",
-    "static/js/2.c520f7c8.chunk.js.map": "/FakeInsta/static/js/2.c520f7c8.chunk.js.map",
+    "static/js/2.cc2c6d7b.chunk.js": "/FakeInsta/static/js/2.cc2c6d7b.chunk.js",
+    "static/js/2.cc2c6d7b.chunk.js.map": "/FakeInsta/static/js/2.cc2c6d7b.chunk.js.map",
     "static/js/3.f742091e.chunk.js": "/FakeInsta/static/js/3.f742091e.chunk.js",
     "static/js/3.f742091e.chunk.js.map": "/FakeInsta/static/js/3.f742091e.chunk.js.map",
     "index.html": "/FakeInsta/index.html",
     "static/css/2.7f2ec892.chunk.css.map": "/FakeInsta/static/css/2.7f2ec892.chunk.css.map",
     "static/css/main.3613c8fa.chunk.css.map": "/FakeInsta/static/css/main.3613c8fa.chunk.css.map",
-    "static/js/2.c520f7c8.chunk.js.LICENSE.txt": "/FakeInsta/static/js/2.c520f7c8.chunk.js.LICENSE.txt"
+    "static/js/2.cc2c6d7b.chunk.js.LICENSE.txt": "/FakeInsta/static/js/2.cc2c6d7b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1df1a1fc.js",
     "static/css/2.7f2ec892.chunk.css",
-    "static/js/2.c520f7c8.chunk.js",
+    "static/js/2.cc2c6d7b.chunk.js",
     "static/css/main.3613c8fa.chunk.css",
-    "static/js/main.1e72fbcc.chunk.js"
+    "static/js/main.c1f4d7d4.chunk.js"
   ]
 }
